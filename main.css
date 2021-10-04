@@ -157,7 +157,7 @@ input:focus + .lable__table{
 }
 
 .input:checked + .radio__span.qiz{
-	background-image: url('././img/giriş-icon-png-5.png');
+	background-image: url('././img/gril.png');
 	background-size: 80%;
 	background-position: center;
 	background-repeat: no-repeat;
