@@ -149,15 +149,15 @@ input:focus + .lable__table{
 .radio__form{
   display: flex;
 }
-.input:checked +.radio__span{
-	background-image: url('../img/boy-ic0n.png');
+.input:checked + .radio__span.ogil{
+	background-image: url('././img/boy-ic0n.png');
 	background-size: 80%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
-.input:checked +.radio__span.qiz{
-	background-image: url('../img/giriş-icon-png-5.png');
+.input:checked + .radio__span.qiz{
+	background-image: url('././img/giriş-icon-png-5.png');
 	background-size: 80%;
 	background-position: center;
 	background-repeat: no-repeat;
